@@ -1,0 +1,73 @@
+[24-Jul-2021 19:07:09 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[24-Jul-2021 19:07:09 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[30-Jul-2021 01:42:18 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[30-Jul-2021 01:42:18 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[31-Aug-2021 08:34:54 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[31-Aug-2021 08:34:54 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[31-Aug-2021 08:34:54 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[31-Aug-2021 08:34:54 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[25-Sep-2021 23:02:01 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[25-Sep-2021 23:02:01 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[25-Sep-2021 23:02:01 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wp_options` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Autoloader\jp3513212abf72fff576e4a9d12c45dca9\Autoloader::Automattic\Jetpack\Autoloader\jp3513212abf72fff576e4a9d12c45dca9\{closure}, Automattic\Jetpack\Autoloader\jp3513212abf72fff576e4a9d12c45dca9\Plugins_Handler->cache_plugins, set_transient, update_option
+[03-Nov-2021 05:08:18 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Nov-2021 05:08:18 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
