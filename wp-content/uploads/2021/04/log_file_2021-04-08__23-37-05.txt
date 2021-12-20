@@ -1,0 +1,26 @@
+
+---Downloaded files---
+The import files for: Portfolio Side Header (WPBakery Builder) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://renatastreit.com.br
+Data file = /home/u513972761/domains/renatastreit.com.br/public_html/wp-content/uploads/2021/04/demo-content-import-file_2021-04-08__23-37-05.xml
+Widget file = /home/u513972761/domains/renatastreit.com.br/public_html/wp-content/uploads/2021/04/demo-widgets-import-file_2021-04-08__23-37-05.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Widgets : 
+
+Pesquisar - No Title - Widget already exists
+Posts recentes - No Title - Widget already exists
+Comentários - No Title - Widget already exists
+Arquivos - No Title - Widget already exists
+Categorias - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+
+
+---ocdi/after_import---
+
